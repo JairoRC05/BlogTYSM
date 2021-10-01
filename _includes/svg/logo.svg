@@ -1,8 +1,16 @@
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="24px" height="24px" viewBox="0 0 24 24">
-<style type="text/css">
-	.st0{fill:#515151;}
-</style>
-<path class="st0" d="M1.7,22.3c5.7-5.7,11.3-5.7,17,0c3.3-3.3,3.5-5.3,0.8-6c2.7,0.7,3.5-1.1,2.3-5.6s-3.3-5.2-6.3-2.1
-	c3-3,2.3-5.2-2.1-6.3S7,1.8,7.7,4.6C7,1.8,5,2.1,1.7,5.3C7.3,11,7.3,16.7,1.7,22.3"/>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="16.000000pt" height="16.000000pt" viewBox="0 0 16.000000 16.000000"
+ preserveAspectRatio="xMidYMid meet">
+
+<g transform="translate(0.000000,16.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none">
+<path d="M125 155 c-5 -2 -36 -6 -67 -10 -56 -6 -58 -7 -58 -36 0 -22 5 -29
+20 -29 18 0 20 -4 14 -40 l-7 -40 37 0 36 0 0 45 c0 38 3 45 19 45 11 0 22 4
+25 8 3 5 -8 6 -25 4 -27 -4 -29 -7 -29 -48 0 -40 -2 -44 -25 -44 -28 0 -29 2
+-16 48 9 30 8 32 -15 32 -17 0 -24 6 -24 19 0 16 9 21 47 26 27 3 56 8 66 10
+9 2 21 -4 27 -13 8 -15 9 -14 10 6 0 20 -10 26 -35 17z"/>
+</g>
 </svg>

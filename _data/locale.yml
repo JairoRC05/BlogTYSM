@@ -3,11 +3,11 @@
 ########################
 en: &EN
   SUBSCRIBE               : "Subscribe"
-  READMORE                : "Read more"
-  SEARCH                  : "Search"
-  CANCEL                  : "Cancel"
+  READMORE                : "Leer más"
+  SEARCH                  : "Buscar"
+  CANCEL                  : "Cancelar"
   VIEWS                   : "views"
-  LAST_UPDATED            : "Last updated"
+  LAST_UPDATED            : "Última actualización"
   PREVIOUS                : "ANTERIOR"
   NEXT                    : "SIGUIENTE"
   ARTICLE_DATE_FORMAT     : "%b %d, %Y"

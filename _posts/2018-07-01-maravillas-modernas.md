@@ -1,8 +1,9 @@
 ---
-title: Marvillas Modernas
+title: Maravillas Modernas
 tags: maravillas mundo trending
-author: Jairo RC 
+author: Carlos Sandoval
 chart: true
+modify_date: 2021-09-20
 ---
 
 Se denominan las nuevas siete maravillas del mundo moderno a los monumentos que resultaron los ganadores en un concurso público e internacional celebrado en 2007, inspirado en la lista de las siete maravillas del mundo antiguo y realizado por una empresa privada de nombre New Open World Corporation. Más de cien millones de votaciones, a través de Internet y SMS, dieron como resultado esta nueva clasificación. La iniciativa partió del empresario suizo Bernard Weber, fundador de la empresa.
