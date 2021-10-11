@@ -72,7 +72,7 @@ paths:
 ## => Post
 ##############################
 ## excerpt
-excerpt_separator: <!--more-->
+excerpt_separator: <!--más-->
 
 ## license
 license: CC-BY-NC-4.0 # "CC-BY-4.0", "CC-BY-SA-4.0", "CC-BY-NC-4.0", "CC-BY-ND-4.0"
@@ -214,7 +214,7 @@ defaults:
         toc: true
       show_edit_on_github: false
       show_subscribe: false
-      pageview: true
+      pageview: false
 
 
 
